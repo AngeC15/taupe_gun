@@ -9,5 +9,7 @@ Potion de force légèrement nerf
 Heal avant l'activation du pvp et des taupes
 revive au besoin avant annonce des taupes
 
-/reveal pour se reveler en tant que taupe et gagner 2 pommes d'or
+/claim Pour obtenir le kit taupe
+/reveal Pour se révéler à tous joueurs comme une taupe.
+/t Pour envoyer un message à son équipe taupe.
 /coords pour envoyer ses coordonnées à ses coéquipiers
