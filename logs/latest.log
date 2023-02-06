@@ -1,0 +1,212 @@
+[18:33:49] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[18:33:49] [Server thread/INFO]: Loading properties
+[18:33:49] [Server thread/INFO]: Default game type: SURVIVAL
+[18:33:50] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-21fe707-741a1bd (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[18:33:50] [Server thread/INFO]: Debug logging is disabled
+[18:33:50] [Server thread/INFO]: Server Ping Player Sample Count: 12
+
+[18:33:50] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:33:50] [Server thread/INFO]: Generating keypair
+[18:33:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:33:50] [Server thread/INFO]: Using default channel type
+[18:33:50] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[18:33:50] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[18:33:50] [Server thread/INFO]: [TaupeGun] Loading TaupeGun v2.9.3
+[18:33:50] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.8.0
+[18:33:51] [Server thread/INFO]: [SuperVanish] Loading SuperVanish v6.2.15
+[18:33:51] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.8.0
+[18:33:51] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[18:33:51] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[18:33:51] [Server thread/INFO]: Preparing level "world"
+[18:33:51] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:33:51] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:33:51] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:33:51] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:33:51] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:33:51] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:33:51] [Server thread/INFO]: Clear tick list: false
+[18:33:51] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:33:51] [Server thread/INFO]: View Distance: 10
+[18:33:51] [Server thread/INFO]: Mob Spawn Range: 4
+[18:33:51] [Server thread/INFO]: Anti X-Ray: true
+[18:33:51] [Server thread/INFO]: 	Engine Mode: 1
+[18:33:51] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:33:51] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:33:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:33:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:33:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:33:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:33:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:33:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:33:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:33:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:33:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:33:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:33:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:33:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:33:52] [Server thread/INFO]: Random Lighting Updates: false
+[18:33:52] [Server thread/INFO]: Structure Info Saving: true
+[18:33:52] [Server thread/INFO]: Max Entity Collisions: 8
+[18:33:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:33:52] [Server thread/INFO]: Max TNT Explosions: 100
+[18:33:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:33:52] [Server thread/INFO]: Sending up to 10 chunks per packet
+[18:33:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:33:52] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[18:33:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:33:52] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:33:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:33:52] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:33:52] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:33:52] [Server thread/INFO]: Clear tick list: false
+[18:33:52] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:33:52] [Server thread/INFO]: View Distance: 10
+[18:33:52] [Server thread/INFO]: Mob Spawn Range: 4
+[18:33:52] [Server thread/INFO]: Anti X-Ray: true
+[18:33:52] [Server thread/INFO]: 	Engine Mode: 1
+[18:33:52] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:33:52] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:33:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:33:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:33:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:33:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:33:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:33:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:33:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:33:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:33:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:33:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:33:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:33:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:33:52] [Server thread/INFO]: Random Lighting Updates: false
+[18:33:52] [Server thread/INFO]: Structure Info Saving: true
+[18:33:52] [Server thread/INFO]: Max Entity Collisions: 8
+[18:33:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:33:52] [Server thread/INFO]: Max TNT Explosions: 100
+[18:33:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:33:52] [Server thread/INFO]: Sending up to 10 chunks per packet
+[18:33:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:33:52] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[18:33:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:33:52] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:33:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:33:52] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:33:52] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:33:52] [Server thread/INFO]: Clear tick list: false
+[18:33:52] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:33:52] [Server thread/INFO]: View Distance: 10
+[18:33:52] [Server thread/INFO]: Mob Spawn Range: 4
+[18:33:52] [Server thread/INFO]: Anti X-Ray: true
+[18:33:52] [Server thread/INFO]: 	Engine Mode: 1
+[18:33:52] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:33:52] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:33:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:33:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:33:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:33:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:33:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:33:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:33:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:33:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:33:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:33:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:33:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:33:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:33:52] [Server thread/INFO]: Random Lighting Updates: false
+[18:33:52] [Server thread/INFO]: Structure Info Saving: true
+[18:33:52] [Server thread/INFO]: Max Entity Collisions: 8
+[18:33:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:33:52] [Server thread/INFO]: Max TNT Explosions: 100
+[18:33:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:33:52] [Server thread/INFO]: Sending up to 10 chunks per packet
+[18:33:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:33:52] [Server thread/INFO]: Preparing start region for level 0 (Seed: 8914586693425761836)
+[18:33:53] [Server thread/INFO]: Preparing spawn area: 58%
+[18:33:53] [Server thread/INFO]: Preparing start region for level 1 (Seed: 8914586693425761836)
+[18:33:54] [Server thread/INFO]: Preparing start region for level 2 (Seed: 8914586693425761836)
+[18:33:54] [Server thread/INFO]: [TaupeGun] Enabling TaupeGun v2.9.3
+[18:33:55] [Server thread/INFO]: [TaupeGun-WARN] La connexion a la base de donnee a echoue !
+
+[18:33:55] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.2.15
+[18:33:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:33:55] [Server thread/INFO]: Done (4,033s)! For help, type "help" or "?"
+[18:34:01] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[18:34:04] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[18:34:07] [Server thread/INFO]: Opped djovn
+[18:34:11] [User Authenticator #1/INFO]: UUID of player djovn is f24306bd-1d52-4ad6-b699-614108807069
+[18:34:23] [Server thread/INFO]: djovn[/127.0.0.1:1253] logged in with entity id 272 at ([world]0.5, 201.0, 0.5)
+[18:34:24] [Server thread/INFO]: djovn issued server command: /gamemode creative
+[18:34:24] [Server thread/INFO]: [djovn: Set own game mode to Creative Mode]
+[18:35:36] [Server thread/INFO]: djovn has just earned the achievement [Taking Inventory]
+[18:36:53] [Server thread/INFO]: djovn issued server command: /gamerule announceAdvancements false
+[18:36:53] [Server thread/INFO]: [djovn: Game rule has been updated]
+[18:58:35] [Server thread/INFO]: djovn issued server command: /help
+[18:58:44] [Server thread/INFO]: djovn issued server command: /help SuperVanish
+[18:58:51] [Server thread/INFO]: djovn issued server command: /sv on
+[18:59:39] [Server thread/INFO]: djovn issued server command: /sv off
+[18:59:47] [Server thread/INFO]: djovn issued server command: /sv help
+[19:00:12] [Server thread/INFO]: djovn issued server command: /sv tipu
+[19:00:14] [Server thread/INFO]: djovn issued server command: /sv tipu
+[19:01:18] [Server thread/INFO]: djovn issued server command: /help ProtocolLib
+[19:01:40] [Server thread/INFO]: djovn issued server command: /help
+[19:01:57] [Server thread/INFO]: djovn issued server command: /help TaupeGun
+[19:02:09] [Server thread/INFO]: djovn issued server command: /item
+[19:02:24] [Server thread/INFO]: djovn issued server command: /coords
+[19:02:33] [Server thread/INFO]: djovn issued server command: /coords
+[19:02:48] [Server thread/INFO]: De-opped djovn
+[19:03:08] [Server thread/INFO]: djovn issued server command: /coords
+[19:03:14] [Server thread/INFO]: Opped djovn
+[19:03:48] [Server thread/INFO]: djovn issued server command: /worldborder
+[19:03:55] [Server thread/INFO]: djovn issued server command: /worldborder get
+[19:04:03] [Server thread/INFO]: djovn issued server command: /worldborder set 800
+[19:04:03] [Server thread/INFO]: [djovn: Set world border to 800,0 blocks wide (from 1600,0 blocks)]
+[19:04:55] [Server thread/INFO]: djovn issued server command: /worldborder set 1600
+[19:04:55] [Server thread/INFO]: [djovn: Set world border to 1600,0 blocks wide (from 800,0 blocks)]
+[19:05:35] [Server thread/INFO]: djovn issued server command: /gamerule doFireTick false
+[19:05:35] [Server thread/INFO]: [djovn: Game rule has been updated]
+[19:07:32] [Server thread/INFO]: djovn issued server command: /gamerule randomTickSpeed
+[19:10:24] [Server thread/INFO]: djovn issued server command: /effect give minecraft:speed djovn
+[19:10:24] [Server thread/INFO]: [djovn: The entity UUID provided is in an invalid format]
+[19:10:28] [Server thread/INFO]: djovn issued server command: /effect give minecraft:speed djovn 555 555
+[19:10:28] [Server thread/INFO]: [djovn: The entity UUID provided is in an invalid format]
+[19:10:49] [Server thread/INFO]: djovn issued server command: /effect djovn minecraft:speed 5555 555
+[19:10:49] [Server thread/INFO]: [djovn: The number you have entered (555) is too big, it must be at most 255]
+[19:10:54] [Server thread/INFO]: djovn issued server command: /effect djovn minecraft:speed 5 5
+[19:10:54] [Server thread/INFO]: [djovn: Given Speed (ID 1) * 5 to djovn for 5 seconds]
+[19:11:03] [Server thread/INFO]: djovn issued server command: /effect djovn minecraft:speed 5 10
+[19:11:03] [Server thread/INFO]: [djovn: Given Speed (ID 1) * 10 to djovn for 5 seconds]
+[19:11:13] [Server thread/INFO]: djovn issued server command: /effect djovn minecraft:speed 50 10
+[19:11:13] [Server thread/INFO]: [djovn: Given Speed (ID 1) * 10 to djovn for 50 seconds]
+[19:11:22] [Server thread/INFO]: djovn issued server command: /effect djovn minecraft:speed 50 100
+[19:11:22] [Server thread/INFO]: [djovn: Given Speed (ID 1) * 100 to djovn for 50 seconds]
+[19:12:45] [Server thread/INFO]: djovn issued server command: /effect djovn minecraft:jump_boost 50 50
+[19:12:45] [Server thread/INFO]: [djovn: Given Jump Boost (ID 8) * 50 to djovn for 50 seconds]
+[19:12:47] [Server thread/INFO]: djovn issued server command: /effect djovn minecraft:speed 50 100
+[19:12:47] [Server thread/INFO]: [djovn: Given Speed (ID 1) * 100 to djovn for 50 seconds]
+[19:12:54] [Server thread/INFO]: djovn issued server command: /effect djovn minecraft:jump_boost 5 50
+[19:12:54] [Server thread/INFO]: [djovn: Given Jump Boost (ID 8) * 50 to djovn for 5 seconds]
+[19:15:07] [Server thread/INFO]: djovn issued server command: /effect djovn minecraft:speed 50 100
+[19:15:07] [Server thread/INFO]: [djovn: Given Speed (ID 1) * 100 to djovn for 50 seconds]
+[19:17:00] [Server thread/INFO]: djovn issued server command: /kill djovn
+[19:17:00] [Server thread/INFO]: [djovn: Killed djovn]
+[19:19:37] [Server thread/INFO]: djovn issued server command: /setworldspawn
+[19:19:37] [Server thread/INFO]: [djovn: Set the world spawn point to (2, 201, 1)]
+[19:24:53] [Server thread/INFO]: djovn issued server command: /help TaupeGun
+[19:24:58] [Server thread/INFO]: djovn issued server command: /help TaupeGun 2
+[19:25:00] [Server thread/INFO]: djovn issued server command: /help TaupeGun 3
+[19:28:02] [Server thread/INFO]: djovn issued server command: /timer
+[19:28:08] [Server thread/INFO]: djovn issued server command: /rules
+[19:28:11] [Server thread/INFO]: djovn lost connection: Disconnected
+[19:28:12] [Server thread/INFO]: (-) djovn
+[19:28:17] [Server thread/INFO]: Stopping the server
+[19:28:17] [Server thread/INFO]: Stopping server
+[19:28:17] [Server thread/INFO]: [SuperVanish] Disabling SuperVanish v6.2.15
+[19:28:17] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.8.0
+[19:28:17] [Server thread/INFO]: [TaupeGun] Disabling TaupeGun v2.9.3
+[19:28:17] [Server thread/INFO]: Saving players
+[19:28:17] [Server thread/INFO]: Saving worlds
+[19:28:17] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[19:28:18] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[19:28:18] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End

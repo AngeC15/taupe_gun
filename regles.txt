@@ -1,0 +1,13 @@
+Map de taille 800*800
+PvP - 10 min
+Taupes - 20 min
+Début de la réduction de zone - 80 min
+Par défaut, chat d'équipe, pour parler au global: !
+Pas de mort par les creepers
+Pas de potion niveau 2
+Potion de force légèrement nerf 	
+Heal avant l'activation du pvp et des taupes
+revive au besoin avant annonce des taupes
+
+/reveal pour se reveler en tant que taupe et gagner 2 pommes d'or
+/coords pour envoyer ses coordonnées à ses coéquipiers
